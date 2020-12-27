@@ -1,0 +1,418 @@
+0 - Run
+1 - Beheading
+11 - Rest
+200 - Baby Transformation
+201 - Young Transformation
+202 - Adult Transformation
+203 - Amogae Transformation
+
+----------------------------------------------------------------------------
+Thiefs
+----------------------------------------------------------------------------
+
+2 - Attack Power Up (thief)
+3 - Increase Target Rate (thief)
+4 - Increase Critical Rate (thief)
+5 - Increase Critical Damage (thief)
+6 - Hiding (thief)
+7 - Assault (thief)
+8 - Stun (thief)
+9 - Confusion (thief)
+10 - Strangle (thief)
+12 - Dual Shadow (thief)
+13 - Dance of Killing (thief)
+14 - Fatal Wound (thief)
+15 - Ankle Amputate (thief)
+16 - Vital Strike (thief)
+17 - Rupture (thief)
+18 - Final Blow (thief)
+19 - Spin Attack (thief)
+20 - Counter attack (thief)
+21 - Suicidal Blow (thief)
+22 - Armor Breaker (thief)
+23 - Twin Blade Strike (thief)
+24 - Deep Breath (thief) (passive)
+25 - Acrobatic (thief) (passive)
+26 - High grade Acrobatic (thief) (passive)
+27 - Silence Step (thief)
+28 - Lightning Slash (thief)
+29 - Wind Cry (thief)
+30 - Life Extension (thief)
+31 - Wrath of Thief (thief)
+32 - Shadow Slash (thief)
+33 - Wrath of Heaven (thief)
+34 - Remove Sign (thief)
+35 - Flame Dance (thief)
+36 - Spin Blade (thief)
+37 - Weak Point Detection (thief) (passive)
+63 - Counter offensive (thief)
+70 - Blessing of Son of the Sky (thief) (passive)
+71 - Blessing of Son of the Sky (thief) (passive)
+80 - Artillery (thief) (passive)
+81 - Artillery (thief) (passive)
+85 - Mystery Skill of Accuracy (thief) (passive)
+86 - Mystery skill of Evasion (thief) (passive)
+87 - Mystery skill of Defense (thief) (passive)
+88 - Walk on the Air (thief)
+89 - Evolution of Mana Circulation (thief) (passive)
+90 - Critical Strike (thief)
+91 - Strike of God (thief)
+92 - Critical Diffusion (thief)
+93 - Destroying Armor (thief)
+94 - Attack of Dark Shadow (thief) (passive)
+
+------------------------------------------------------------------------
+Knights
+------------------------------------------------------------------------
+
+2 - Weapon Mastery (passive)
+3 - Lightning Slash
+4 - Mockery
+5 - Transcendental Blow
+6 - Defense (passive)
+7 - Upward Slash
+8 - Provocation
+9 - Flashing Slash
+10 - Increasing Concentration
+12 - Critical Hit
+13 - Widening Wound
+14 - Protect
+15 - Shield Attack
+16 - Powerful Upward Slash
+17 - Brutal Attack
+18 - Force of Defense
+19 - Call of Defense
+20 - Parry (passive)
+21 - Rush
+22 - Shield Offense
+23 - Call of Recovery
+24 - Berserk
+25 - Half Swing
+26 - Sacrifice
+27 - Call of Lightning Defense
+28 - Call of Ice Defense
+29 - Call of Fire Defense
+30 - Life Extension (passive)
+31 - Call of On Target Point
+32 - Call of Physical Attack
+33 - Survival Instinct
+34 - Elastic Shield
+35 - Revival
+36 - Increase of Critical Hit
+37 - Weapon defend (passive)
+38 - Spin Slash
+39 - Defense strengthening (passive)
+40 - Perfect defense
+41 - Powerfu Widening Wound
+42 - Provocation of Blow
+43 - Sword Dance
+44 - Devine Suction
+70 - Blessing of Son of the Sky (passive)
+71 - Blessing of Son of the Sky (passive)
+80 - Artillery (passive)
+81 - Artillery (passive)
+82 - Mana Circulation (passive)
+85 - Mystery Skill of Accuracy (passive)
+86 - Mystery skill of Evasion (passive)
+87 - Mystery skill of Defense (passive)
+88 - Walk on the Air (passive)
+89 - Evolution of Mana Circulation (passive)
+90 - Shout of Defense
+91 - The Boom of Earth
+92 - Shout of Fighting Spirit
+93 - The wave of Earth
+94 - Attack of Dark Shadow (passive)
+
+------------------------------------------------------------------------
+Mage
+------------------------------------------------------------------------
+2 - Fire Magic
+3 - Ice Magic
+4 - Lightning Magic
+5 - Long-range Protection
+8 - Heal
+9 - Shock Wave
+10 - Cure
+12 - Magic Mastery : Lightning (passive)
+13 - Magic Mastery : Ice (passive)
+14 - Magic Mastery  : Fire (passive)
+15 - Meditation
+16 - Revival
+17 - Defensive incantation 1
+18 - Defensive incantation 2
+19 - Defensive incantation 3
+20 - Defensive incantation 4
+21 - Defensive incantation 5
+22 - Cure 2
+23 - Lightning Blow
+24 - Splashy Ice
+25 - Fire Blow
+26 - Speed Up
+27 - Frost
+28 - Group Cure
+29 - Restore
+30 - Life Extension (passive)
+31 - Lightning Summons
+32 - Hail
+33 - Flame Bomb
+34 - Summons
+35 - Cure 3
+36 - Hypnotism
+37 - Cold Binding
+38 - Refining Weapon
+39 - Defense Improvement
+40 - Soul Destruction
+41 - Chain Lightning
+42 - Thunder
+43 - Thunder Storm
+44 - Ice Restriction
+45 - Ice Storm
+46 - Explosion
+47 - Explosive Burst
+48 - Fire Storm
+49 - Blessing of Strength
+50 - Blessing of Health
+51 - Blessing of Agility
+52 - Blessing of Intelligence
+53 - Increase of Critical Hit
+54 - Purification
+55 - Perfect Cure
+56 - Increase of Target Range (passive)
+57 - Group Cure 2
+58 - Perfect Group Cure 2
+59 - Perfect Healing
+60 - Distance Control (passive)
+61 - Amnesia
+63 - [Defensive incantation 6]
+64 - magic Intensification
+65 - Flame Injection
+66 - Icicle
+67 - Lightning Arrow
+68 - Healing Intensification (passive)
+69 - Blessing
+70 - Blessing of Son of the Sky (passive)
+71 - Blessing of Son of the Sky (passive)
+72 - Therapeutic touch
+73 - Fireball
+74 - Ice Arrow
+75 - Thunderbolt
+76 - Counter Damage
+80 - Artillery (passive)
+81 - Artillery (passive)
+82 - Mana Circulation (passive)
+83 - Mana Circulation (passive)
+85 - Mystery Skill of Accuracy (passive)
+86 - Mystery skill of Evasion (passive)
+87 - Mystery skill of Defense (passive)
+88 - Walk on the Air
+89 - Evolution of Mana Circulation (passive)
+90 - Punishment
+91 - Incapacitation
+92 - Releasing the Energy
+93 - Bombing
+94 - Attack of Dark Shadow (passive)
+
+------------------------------------------------------------------------------
+Archer
+------------------------------------------------------------------------------
+
+2 - Bow Mastery (passive)
+3 - Staggering Blow
+4 - Passive Attack
+5 - Concentration (passive)
+6 - Flamy Arrow
+7 - Chance Capture (passive)
+8 - Perfect Evasion (passive)
+9 - Heart Breaker
+10 - Muscle Solidation
+12 - Fatal Blow (passive)
+13 - Poison Arrow
+14 - Blow-up Arrow
+15 - Arrow of Silence
+16 - Focus Shot
+17 - Range Extension (passive)
+18 - Life Absorption
+19 - Pain
+20 - Perfect Evasion 2 (passive)
+21 - Mysterious Arrow
+22 - Speed of Attack Reducer
+23 - Sight Interruption
+24 - Lightning Resistance
+25 - Ice Resistance
+26 - Fire Resistance
+27 - Powerful Arrow of Silence
+28 - Curse Resistance
+29 - Non-Attribution Resistance
+30 - Life Extension (passive)
+31 - Emergency Escape
+32 - Critical Hit (passive)
+33 - Decrease of Target Range
+34 - MP Vaporization
+35 - Curse of Critical Hit
+36 - Curse of Strength
+37 - Curse of Health
+38 - Curse of Agility
+39 - Curse of Intellegence
+40 - Curse of Wisdom
+41 - Curse of Defense
+42 - Poison Cloud
+43 - Loss of Confidence
+44 - Sight Blockade
+45 - Buff Remover
+46 - sharpness (passive)
+47 - Arrow rain
+48 - Shrewdness (passive)
+49 - Arrow Explosion
+50 - Virulent Arrow
+51 - Combative Spirit
+70 - Blessing of Son of the Sky (passive)
+71 - Blessing of Son of the Sky (passive)
+80 - Artillery (passive)
+81 - Artillery (passive)
+82 - Mana Circulation (passive)
+85 - Mystery Skill of Accuracy (passive)
+86 - Mystery skill of Evasion (passive)
+87 - Mystery skill of Defense (passive)
+88 - Walk on the Air
+89 - Evolution of Mana Circulation (passive)
+90 - One Hit Strike
+91 - Massive Fire
+92 - Arrows of the Master
+93 - Spirit of the Arrows
+94 - Attack of Dark Shadow (passive)
+
+------------------------------------------------------------------------------
+Shaman
+------------------------------------------------------------------------------
+
+13 - Ghost Blade
+14 - Ghost Flash
+15 - Soul Shield
+16 - Energy Recovery (passive)
+17 - Increase in Energy (passive)
+18 - Wave
+19 - Ghost Spear
+20 - Divine Shield
+21 - Hurricane
+22 - Pain of Soul
+23 - Spell Power (passive)
+24 - Deep Curse (passive)
+25 - Entangling
+26 - Spear of Pain
+27 - Summoning Soul
+28 - Drain Blood
+29 - Mental Breakdown
+30 - Life Extension (passive)
+31 - increase Entangling (passive)
+32 - Ghost Fortification (passive) 
+34 - Artillery (passive)
+35 - Lucky Trick (passive)
+36 - JigukKing
+37 - JeungjangKing
+38 - Amplification of Blood
+39 - Wave of Emperor
+40 - Gangshin Fortification (passive)
+41 - Bleeding Fortification (passive)
+42 - Artillery (passive)
+43 - Lucky Trick (passive)
+44 - Collapse
+45 - Ruler
+46 - Six Souls
+47 - Exploding Spirit
+48 - Curse Amplification (passive)
+49 - None elemental Amplification (passive)
+50 - JigukKing of Taein
+51 - JeungjangKing of Taein
+52 - Soul Blow
+53 - Gangshin Ruling (passive)
+54 - Magical Explosion
+55 - Ghost Strike
+56 - Doggebi spirit
+57 - Soul healing
+58 - Soul of Time
+59 - Sorcery soul storm
+60 - Ghost Strike
+61 - Doggebi spirit
+63 - Soul healing
+64 - Soul of Time
+65 - Sorcery soul storm
+70 - Blessing of Son of the Sky (passive)
+71 - Blessing of Son of the Sky (passive)
+85 - Mystery Skill of Accuracy (passive)
+86 - Mystery skill of Evasion (passive)
+87 - Mystery skill of Defense (passive)
+88 - Cloud Move
+89 - Devil Lucky Trick (passive)
+90 - Spirit Wave
+91 - 4th Rising King
+92 - Doggebi
+93 - 4th Gangshin
+94 - Attack of Dark Shadow (passive)
+
+------------------------------------------------------------------------
+Sword Trickster
+------------------------------------------------------------------------
+0 - Sprint (passive)
+1 - Beheading
+11 - Rest
+12 - Bihondo Expert (passive)
+13 - Control Blade I (passive)
+14 - Trick Slash Add
+15 - Sword Barrier
+16 - Sword Stack Charge
+17 - Shooting Sword
+18 - Cross Slash
+19 - Multiple Slash
+20 - Flying Sword
+22 - Avoidance (passive)
+30 - Life Extension (passive)
+40 - Mind Sword Master (passive)
+41 - Red Dragon Stance
+42 - Blue Dragon Stance
+43 - Heaven Sword
+44 - Lightning Sword
+45 - Cyclone Storm Sword
+46 - Inhale Sword
+47 - Sword Area
+48 - Pulling Sword
+49 - Barrier Formation
+70 - Blessing of Son of the Sky (passive)
+80 - Artillery (passive)
+82 - Mana Circulation (passive)
+85 - Mystery Skill of Accuracy (passive)
+86 - Mystery skill of Evasion (passive)
+87 - Mystery skill of Defense (passive)
+88 - Walk on the Air
+89 - Evolution of Mana Circulation (passive)
+90 - Illusion blade
+92 - Wing of Pheonix
+94 - One Hit Strike (passive)
+
+------------------------------------------------------------------------------
+Gale, Gunchi, tuguk, yungsang
+------------------------------------------------------------------------------
+64 - Lightning Wave
+65 - Icy Storm
+66 - Phoenix
+67 - Hard Hit
+68 - Destruction
+69 - Rage
+70 - Earth Thorn
+71 - Shadow Canine
+72 - Adamant
+101 - Lightning Wave
+102 - Icy Storm
+104 - Hard Hit
+103 - Phoenix
+105 - Destruction
+106 - Rage
+107 - Earth Thorn
+108 - Shadow Canine
+109 - Adamant
+110 - High Class Hiding
+111 - ZilPoong
+112 - ShinRhoe
+113 - Revolve Attack
+114 - Whirlwind Feather
+115 - Blood Suction
+116 - Thunderbolt
